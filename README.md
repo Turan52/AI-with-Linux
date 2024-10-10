@@ -1,4 +1,4 @@
-# AI-with-Linux
+# AI-with-Linux 💻
 Guide to Learning AI with Linux
 To begin AI development, a well-configured Linux environment is essential. The following steps outline the process of setting up your system.
 I choose Fedora for this development. Which will be the newest version of Fedora v40.
